@@ -13,8 +13,8 @@ AnythingDB is a flexible, extensible database tool that allows you to use "anyth
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/anything_db.git
-    cd anything_db
+    git clone https://github.com/anything-db/python.git
+    cd python
     ```
 
 2. Install dependencies:
